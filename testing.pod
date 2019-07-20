@@ -1,0 +1,7 @@
+{{Meta|Test}}
+
+記事を書いた日: {{cYear}}/{{cMonth}}/{{cDay}}
+
+{{avatar|apple502j}} apple502jは、記事を書いた。この記事はScratcher Newspaper初のものであろう。この記事で、いくらかテストしてみる。
+
+{{quote|To be or not to be; that is the question.}}
