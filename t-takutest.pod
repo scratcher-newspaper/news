@@ -1,0 +1,5 @@
+{{Meta|T-taku}}
+記事を書いた日: {{cYear}}/{{cMonth}}/{{cDay}} 
+
+T-takuなのだ。
+{{avatar|T-taku}}
